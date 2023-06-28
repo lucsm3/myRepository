@@ -1,0 +1,49 @@
+header {
+    border-bottom: solid 1px rgb(156, 153, 153);
+}
+
+.circleGreen {
+    height: 400px;
+    width: 400px;
+    background-color: #00916E;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: -13%;
+}
+
+.circleBlue {
+    height: 250px;
+    width: 250px;
+    background-color: #0B132B;
+    border-radius: 50%;
+    display: flex;
+    margin-left: -8%;
+    margin-top: -7%;
+}
+
+.recangleOrange {
+    height: 200px;
+    width: 200px;
+    background-color: #FF715B;
+    border-radius: 10%;
+    display: flex;
+    margin-left: 90%;
+    margin-top: -30em;
+}
+
+.recangleRed {
+    height: 250px;
+    width: 250px;
+    background-color: #FE4A49;
+    border-radius: 10%;
+    display: flex;
+    margin-left: 88%;
+    transform: rotate(45deg);
+}
+
+img {
+    min-width: 20%;
+    width: 100%;
+}
+
+
